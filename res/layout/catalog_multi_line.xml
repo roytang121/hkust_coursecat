@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+ <ScrollView
+      xmlns:android="http://schemas.android.com/apk/res/android"
+	      android:layout_width="fill_parent"
+	      android:layout_height="fill_parent" 
+	      android:scrollbarAlwaysDrawVerticalTrack="true">
+
+<LinearLayout 
+ 	android:orientation="vertical" 
+ 	android:layout_width="fill_parent"
+  	android:layout_height="wrap_content">
+  
+	  <TextView 
+	      android:id="@+id/text1"
+	  	  android:textSize="20sp" 
+	  	  android:textColor="#111111" 
+	  	  android:layout_width="wrap_content" 
+	  	  android:layout_height="wrap_content"/>
+  
+	 <TextView android:id="@+id/text2" 
+	      android:textSize="15sp" 
+	  	  android:layout_width="wrap_content" 
+	  	  android:layout_height="wrap_content"
+	  	  android:textColor="#555555"/>
+	 
+	 <TextView android:id="@+id/text3" 
+	      android:textSize="15sp" 
+	  	  android:layout_width="wrap_content" 
+	  	  android:layout_height="wrap_content"
+	  	  android:textColor="#555555"/>
+	 <TextView android:id="@+id/text4" 
+	      android:textSize="15sp" 
+	  	  android:layout_width="wrap_content" 
+	  	  android:layout_height="wrap_content"
+	  	  android:textColor="#555555"/>
+	 <TextView android:id="@+id/text5" 
+	      android:textSize="15sp" 
+	  	  android:layout_width="wrap_content" 
+	  	  android:layout_height="wrap_content"
+	  	  android:textColor="#555555"/>
+	 <TextView android:id="@+id/text6" 
+	      android:textSize="15sp" 
+	  	  android:layout_width="wrap_content" 
+	  	  android:layout_height="wrap_content"
+	  	  android:textColor="#555555"/>
+	 <TextView android:id="@+id/text7" 
+	      android:textSize="15sp" 
+	  	  android:layout_width="wrap_content" 
+	  	  android:layout_height="wrap_content"
+	  	  android:textColor="#555555"/>
+	 
+	 
+</LinearLayout>
+</ScrollView>
